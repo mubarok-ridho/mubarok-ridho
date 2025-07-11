@@ -64,4 +64,4 @@ Currently focused on:
 
 ---
 
-> _"Be curious, not judgmental."_ — **Walt Whitman**
+> _"There's no greater wealth than 'aqli"_ — **Ali bin Abi Thalib**
