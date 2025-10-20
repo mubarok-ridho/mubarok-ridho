@@ -48,15 +48,6 @@ Currently focused on:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubarok-ridho&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarok-ridho&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: [`dhxo.pyprogram@gmail.com`](mailto:dhxo.pyprogram@gmail.com)
