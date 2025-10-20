@@ -51,7 +51,7 @@ Currently focused on:
 ### 📫 Let's Connect
 
 - 📧 Email: [`dhxo.pyprogram@gmail.com`](mailto:dhxo.pyprogram@gmail.com)
-- 📸 Instagram: [@mubarok.ridho](https://instagram.com/hi.dhoo_)
+- 📸 Instagram: [@hi.dhoo_](https://instagram.com/hi.dhoo_)
 
 ---
 
