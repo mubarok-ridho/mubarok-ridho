@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ridho Mubarok  
-💻 Mahasiswa • 🔍 Explorer • 🤲🏻 Hamba Allah • 🚀 Developer in Progress  
+💻 Software Engineer • 🤖 AI Researcher • 📱 Mobile Developer • 🚀 Founder of Javatech  
 <img src="https://komarev.com/ghpvc/?username=mubarok-ridho&style=flat-square" alt="Profile views" />
 
 </div>
@@ -10,13 +10,23 @@
 
 ### 🧠 About Me
 
-I'm passionate about building intelligent systems and exploring how technology can help solve real-world problems.  
-Currently focused on:
+I'm an enthusiastic developer and researcher passionate about bridging **AI research** and **real-world software applications**.  
+Currently, I focus on exploring how intelligent systems can enhance learning, automation, and efficiency in modern technology.
 
-- 🤖 **Machine Learning** & **Deep Learning**
-- 👁️‍🗨️ **Computer Vision** & **Image Processing**
-- 📱 Cross-platform development with **Flutter**
-- 🧠 Backend development with **Golang** & **Python**
+I love building things from scratch — whether it's an **IoT device**, a **neural model**, or a **mobile app** — and turning ideas into practical solutions.
+
+---
+
+### 🚀 What I Do
+
+- 🧩 **Artificial Intelligence & Machine Learning**
+  - Research on *Cognitive Diagnosis Models (CDM)*, including **KaNCD**, **MIRT**, **MCD**, and **GD-DINA**.  
+    My latest work evaluates model accuracy and efficiency using metrics like **AUC**, **Accuracy**, and **POMDP Reward**.
+- 📱 **Mobile Application Development**
+  - Developed several cross-platform apps using **Flutter**, including multi-role systems for delivery, logistics, and booking services.
+- ⚙️ **Backend Engineering**
+  - Experienced in designing REST APIs and real-time systems with **Golang**, **PostgreSQL**, and **JWT authentication**.
+- 💡 **Founder of [Javatech](#)** — a software development and AI research provider, helping businesses and organizations build smarter, data-driven solutions.
 
 ---
 
@@ -25,7 +35,7 @@ Currently focused on:
 <div align="center">
 
 #### 💻 Languages & Frameworks  
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -48,11 +58,29 @@ Currently focused on:
 
 ---
 
-### 📫 Let's Connect
+### 🧩 Research Highlight: Cognitive Diagnosis Modeling (CDM)
 
-- 📧 Email: [`dhxo.pyprogram@gmail.com`](mailto:dhxo.pyprogram@gmail.com)
-- 📸 Instagram: [@hi.dhoo_](https://instagram.com/hi.dhoo_)
+My recent research focuses on **neural-based Cognitive Diagnosis Models** using the **ASSISTments 2009–2010** dataset.  
+The experiments explored models such as:
+
+| Model | Description | AUC | ACC | POMDP Reward |
+|:------|:-------------|:----:|:----:|:-------------:|
+| **KaNCD** | Kolmogorov–Arnold Neural CDM | 0.7410 | 0.7503 | 0.792 |
+| **MIRT** | Multidimensional Item Response Theory | 0.6768 | 0.6993 | 0.5291 |
+| **MCD** | Matrix Cognitive Diagnosis Model | 0.7373 | 0.7464 | 0.873 |
+| **GD-DINA** | Gradient-based DINA Model | 0.4953 | 0.5874 | 0.901 |
+
+These results demonstrate the trade-offs between **neural representation power** and **model interpretability** in educational diagnostics.
 
 ---
 
-> _"There's no greater wealth than 'aqli"_ — **Ali bin Abi Thalib**
+### 📫 Let's Connect
+
+- 📧 Email: [`dhxo.pyprogram@gmail.com`](mailto:dhxo.pyprogram@gmail.com)  
+- 📸 Instagram: [@hi.dhoo_](https://instagram.com/hi.dhoo_)  
+- 🧩 GitHub: [github.com/mubarok-ridho](https://github.com/mubarok-ridho)  
+- 🏢 Founder: [Javatech](#)
+
+---
+
+> _“There's no greater wealth than 'aqli.”_ — **Ali bin Abi Thalib**
