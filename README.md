@@ -4,8 +4,6 @@
 💻 **Software Engineer** • 🤖 **AI Researcher** • 📱 **Mobile Developer** • 🚀 **Founder of Javatech**  
 
 <img src="https://komarev.com/ghpvc/?username=mubarok-ridho&style=flat-square&color=blue" alt="Profile views" /> 
-![GitHub Followers](https://img.shields.io/github/followers/mubarok-ridho?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/mubarok-ridho?style=social)
 
 </div>
 
@@ -19,31 +17,19 @@ I'm a passionate developer and AI researcher who thrives on building **intellige
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **Projects Overview**
 
 ### 🤖 **AI & Machine Learning**
-<div align="center">
-
-| Project | Tech Stack | Overview |
-|---------|------------|----------|
-| **Intelligent Classroom Analytics** | `Python` `IoT` `NLP` `Voice Recognition` | IoT + AI system for classroom recording and teaching effectiveness analysis |
-| **Cognitive Diagnosis Research** | `TensorFlow` `PyTorch` `scikit-learn` | Educational data mining using DINA, MCD, MIRT, KaNCD models |
-| **AI Image Enhancement** | `GAN` `Python` `Web Integration` | GAN-based image enhancement for praktikum applications |
-| **Gemini AI Mobile Integration** | `Flutter` `Gemini API` `Dart` | AI content generation integrated into mobile applications |
-| **Learning Style Detection** | `Python` `FSLSDM` `OULAD Dataset` | Felder-Silverman based learning style analysis |
-
-</div>
+- **Intelligent Classroom Analytics**: IoT + AI system for classroom recording and teaching effectiveness analysis using NLP and voice recognition
+- **Cognitive Diagnosis Research**: Educational data mining research using various CDM models like DINA, MCD, MIRT, and KaNCD
+- **AI Image Enhancement**: GAN-based image enhancement integrated with web applications
+- **Gemini AI Integration**: AI content generation integrated into mobile applications
+- **Learning Style Detection**: Analysis of learning styles using FSLSDM model on educational datasets
 
 ### 📱 **Mobile & Web Development**
-<div align="center">
-
-| Project | Stack | Overview |
-|---------|-------|----------|
-| **Faiexpress Mobile App** | `Flutter` `Go` `Centrifugo` | Delivery and logistics app with real-time chat functionality |
-| **Javatech Dashboard** | `React` `Node.js` `PostgreSQL` | Business analytics and data visualization dashboard |
-| **Real-time Chat System** | `WebSocket` `Go` `Flutter` | Centrifugo-based real-time messaging infrastructure |
-
-</div>
+- **Faiexpress Mobile App**: Flutter-based delivery application with Go backend and real-time chat features
+- **Javatech Dashboard**: React-based business analytics dashboard with data visualization
+- **Real-time Systems**: WebSocket-based real-time communication systems for various applications
 
 ---
 
@@ -86,18 +72,6 @@ I'm a passionate developer and AI researcher who thrives on building **intellige
 - **Mobile Development**: Flutter cross-platform applications
 - **Web Development**: React.js, Express.js responsive web apps
 - **Cloud & DevOps**: Docker, Git, CI/CD pipelines
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarok-ridho&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarok-ridho&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mubarok-ridho&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
