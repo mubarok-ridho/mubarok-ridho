@@ -4,6 +4,16 @@
 💻 **Software Engineer** • 🤖 **AI Researcher** • 📱 **Mobile Developer** • 🚀 **Founder of Javatech**  
 
 <img src="https://komarev.com/ghpvc/?username=mubarok-ridho&style=flat-square&color=blue" alt="Profile views" /> 
+<img src="https://img.shields.io/badge/Dynamic%20Developer-AI%20Enthusiast-FF6B6B?style=for-the-badge" alt="Dynamic Developer" />
+<img src="https://img.shields.io/badge/Full--Stack-Innovator-4ECDC4?style=for-the-badge" alt="Full Stack Innovator" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
+![Code Animation](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=00D26A&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+playground!;AI+Research+%7C+Mobile+Development;IoT+Systems+%7C+Backend+Engineering;Let's+build+something+amazing+together!)
 
 </div>
 
@@ -11,26 +21,52 @@
 
 ## 🎯 **About Me**
 
-Hey there! I'm a passionate developer and AI researcher who loves building **intelligent systems** that solve real-world problems. From **IoT devices** to **neural networks**, I specialize in creating seamless integrations between AI research and practical software applications.
+<div align="center">
 
-> *"Turning complex ideas into elegant solutions"*
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Ridho Mubarok"
+        self.role = "AI Researcher & Full-Stack Developer"
+        self.passion = "Building intelligent systems that solve real problems"
+        self.specialties = ["AI/ML", "Computer Vision", "NLP", "IoT", "Mobile Dev"]
+        
+    def greet(self):
+        return "Hey! I turn complex ideas into elegant solutions 🚀"
+        
+me = AboutMe()
+print(me.greet())
+```
+</div>
+I'm passionate about creating bridges between **cutting-edge AI research** and **practical software applications**. From neural networks to IoT devices, I thrive on building systems that make a real impact.
 
 ---
 
-## 🚀 **What I've Been Building**
+## 🚀 **Featured Projects**
 
 ### 🤖 **AI & Machine Learning**
-- **IoT + AI Systems** → Building IoT systems integrated with AI for real-time data analysis
-- **Computer Vision Projects** → Image enhancement using GANs and various CV applications
-- **NLP & Voice Recognition** → Processing natural language and speech data for different use cases
-- **Educational AI Research** → Educational data mining and cognitive diagnosis models research
-- **AI API Integration** → Integrating AI models like Gemini into various platforms
+<div align="center">
+
+| Project | Tech Stack | Overview |
+|---------|------------|----------|
+| **Intelligent Classroom Analytics** | `Python` `IoT` `NLP` `Voice Recognition` | IoT + AI system for classroom recording and teaching effectiveness analysis |
+| **Cognitive Diagnosis Research** | `TensorFlow` `PyTorch` `scikit-learn` | Educational data mining using DINA, MCD, MIRT, KaNCD models |
+| **AI Image Enhancement** | `GAN` `Python` `Web Integration` | GAN-based image enhancement for praktikum applications |
+| **Gemini AI Mobile Integration** | `Flutter` `Gemini API` `Dart` | AI content generation integrated into mobile applications |
+| **Learning Style Detection** | `Python` `FSLSDM` `OULAD Dataset` | Felder-Silverman based learning style analysis |
+
+</div>
 
 ### 📱 **Mobile & Web Development**
-- **Flutter Mobile Apps** → Developing cross-platform apps with Go backend and real-time features
-- **React Web Dashboard** → Building responsive dashboards and web applications
-- **Backend Systems** → REST APIs, microservices, and real-time communication using WebSocket
-- **Database Design** → PostgreSQL, MySQL for scalable data management
+<div align="center">
+
+| Project | Stack | Overview |
+|---------|-------|----------|
+| **Faiexpress Mobile App** | `Flutter` `Go` `Centrifugo` | Delivery and logistics app with real-time chat functionality |
+| **Javatech Dashboard** | `React` `Node.js` `PostgreSQL` | Business analytics and data visualization dashboard |
+| **Real-time Chat System** | `WebSocket` `Go` `Flutter` | Centrifugo-based real-time messaging infrastructure |
+
+</div>
 
 ---
 
@@ -65,27 +101,27 @@ Hey there! I'm a passionate developer and AI researcher who loves building **int
 ## 📊 **Technical Expertise**
 
 ### 🔬 **High Proficiency**
-- **AI/ML** → Computer Vision, Natural Language Processing, Deep Learning
-- **Backend Development** → Microservices, API Design, Database Architecture  
-- **IoT Systems** → Embedded programming, Sensor integration, Real-time processing
+- **AI/ML**: Computer Vision, Natural Language Processing, Deep Learning
+- **Backend Development**: Microservices, API Design, Database Architecture  
+- **IoT Systems**: Embedded programming, Sensor integration, Real-time processing
 
 ### 💡 **Strong Skills**
-- **Mobile Development** → Flutter for cross-platform applications
-- **Web Development** → React.js, Express.js for responsive web apps
-- **Cloud & DevOps** → Docker, Git, CI/CD pipelines
+- **Mobile Development**: Flutter cross-platform applications
+- **Web Development**: React.js, Express.js responsive web apps
+- **Cloud & DevOps**: Docker, Git, CI/CD pipelines
 
 ---
 
 ## 🌟 **Current Focus**
 
-- 🔭 **Research** → Advanced AI models for personalized learning
-- 🌱 **Development** → Full-stack applications with AI integration  
-- 👯 **Collaboration** → Educational technology and AI research projects
-- 💡 **Building** → Javatech as a software solutions provider
+- 🔭 **Research**: Advanced Cognitive Diagnosis Models for personalized learning
+- 🌱 **Development**: Full-stack applications with AI integration
+- 👯 **Collaborating**: On educational technology and AI research projects
+- 💡 **Building**: Javatech - software solutions provider
 
 ---
 
-## 📫 **Let's Connect & Collaborate!**
+## 📫 **Let's Connect & Collaborate**
 
 <div align="center">
 
@@ -105,6 +141,6 @@ Hey there! I'm a passionate developer and AI researcher who loves building **int
 
 > *"There's no greater wealth than 'aqli."* — **Ali bin Abi Thalib**
 
-*✨ Check out the detailed implementations in respective repositories!*
+*✨ Detailed project implementations available in respective repositories*
 
 </div>
