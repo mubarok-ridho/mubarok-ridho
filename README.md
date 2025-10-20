@@ -85,16 +85,12 @@ Hey there! I'm a passionate developer and AI researcher who loves building **int
 
 ---
 
-## 📫 **Let's Connect & Collaborate!**
+### 📫 Let's Connect
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-dhxo.pyprogram@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhxo.pyprogram@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@hi.dhoo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hi.dhoo_)
-[![GitHub](https://img.shields.io/badge/GitHub-mubarok--ridho-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mubarok-ridho)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Javatech-0080FF?style=for-the-badge&logo=react&logoColor=white)](#)
-
-</div>
+- 📧 Email: [`dhxo.pyprogram@gmail.com`](mailto:dhxo.pyprogram@gmail.com)  
+- 📸 Instagram: [@hi.dhoo_](https://instagram.com/hi.dhoo_)  
+- 🧩 GitHub: [github.com/mubarok-ridho](https://github.com/mubarok-ridho)  
+- 🏢 Founder: [Javatech](#)
 
 ---
 
@@ -103,8 +99,6 @@ Hey there! I'm a passionate developer and AI researcher who loves building **int
 ### 🏢 **Founder @ Javatech**
 *Building the future of intelligent software solutions*
 
-> *"There's no greater wealth than 'aqli."* — **Ali bin Abi Thalib**
-
-*✨ Check out the detailed implementations in respective repositories!*
+> _“There's no greater wealth than knowledge.”_ — **Ali bin Abi Thalib**
 
 </div>
